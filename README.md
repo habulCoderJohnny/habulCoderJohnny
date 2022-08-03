@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello Earth 🌎 <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> This is Johnny Dev</h1>
+<h1 align="center">Hello Earth🌎This is Johnny Dev 👨‍💻<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 <h3 align="center">I am a MERN Stack Web-Developer</h3>
  </div>
   
