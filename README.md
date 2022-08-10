@@ -3,14 +3,14 @@
 <h3 align="center">I am a MERN Stack Web-Developer</h3>
  </div>
   
-Here are some ideas to get you started:
+[![](https://visitcount.itsvg.in/api?id=mdtamizuddin&label=Profile%20Views&color=3&pretty=false)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Javascript
+- 🌱 I’m currently learning Next Js 
+- 👯 I’m looking to collaborate on interesting project
+- 🤔 I’m looking for help with a Frontned Develpoper Position
+- 💬 Ask me about https://myspace.com/my-planet
+- 📫 How to reach me: **fokruljohnny@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -77,10 +77,11 @@ Here are some ideas to get you started:
  -->
 
 
-<!-- ### 😂 Random Dev Meme
+ ### 😂 Random Dev Meme
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=mdtamizuddin&label=Profile%20Views&color=3&pretty=false)](https://visitcount.itsvg.in)
- -->
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="sahinur31" width="40%" src="https://profile-counter.glitch.me/sahinur31/count.svg" />
+</p>
