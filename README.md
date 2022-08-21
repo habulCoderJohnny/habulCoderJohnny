@@ -55,7 +55,17 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Vs Code" height="50" /> 
  
- 
+ ### 🏆🏆Recent Achievement Certificates from Programming Hero 🏆🏆
+<div>
+      <img 
+      src="https://user-images.githubusercontent.com/91850365/185795791-1f4133e2-04e3-4673-9445-404f540828ed.png" 
+      height="300"
+      />
+      <img 
+          src="https://user-images.githubusercontent.com/91850365/185795983-6ac4bd59-e753-4d01-b0e9-cae88bb5367f.png" 
+          height="300"
+      />
+</div>
 
  ## :mailbox: Catch me
 [<p align="center"><img height="65" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmUtN7qwOkKtdM3qjPp4UdCpSRh9XdN-IhVGOg6QJkP4df85XKrdpC52q4Qvh0b87yg&usqp=CAU">](https://linktr.ee/JohnnySpace.dev/)[     <img height="65" src="https://iconape.com/wp-content/png_logo_vector/about-me-logo.png"></p>](https://about.me/my-space)
