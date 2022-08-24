@@ -22,6 +22,10 @@
 </div>
 
 
+   ### See my Skill & Achievement ✌️
+<details> 
+  <summary>Click </summary>
+
 ### Frontend  
 
 <div align="center">  
@@ -66,10 +70,11 @@
           height="300"
       />
 </div>
+</details>
 
- ## :mailbox: Catch me
-[<p align="center"><img height="65" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmUtN7qwOkKtdM3qjPp4UdCpSRh9XdN-IhVGOg6QJkP4df85XKrdpC52q4Qvh0b87yg&usqp=CAU">](https://linktr.ee/JohnnySpace.dev/)[     <img height="65" src="https://iconape.com/wp-content/png_logo_vector/about-me-logo.png"></p>](https://about.me/my-space)
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/fokruljohnny/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://web.facebook.com/whoJohnnyMuhammad/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/Who_FJohnny)
+## :mailbox: Catch me
+[<p align="center"><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmUtN7qwOkKtdM3qjPp4UdCpSRh9XdN-IhVGOg6QJkP4df85XKrdpC52q4Qvh0b87yg&usqp=CAU">](https://linktr.ee/JohnnySpace.dev/)[     <img height="40" src="https://iconape.com/wp-content/png_logo_vector/about-me-logo.png"></p>](https://about.me/my-space)
+[<p align="center"><img height="50" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/fokruljohnny/)[<img height="50" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://web.facebook.com/whoJohnnyMuhammad/)[<img height="50" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/Who_FJohnny)
 
   
 
@@ -89,7 +94,7 @@
 
  ### 😂 Random Dev Meme
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<p align="center"> <img src="https://random-memer.herokuapp.com/" width="512px"/> </p>
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
