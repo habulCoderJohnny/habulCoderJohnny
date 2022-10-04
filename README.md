@@ -1,10 +1,10 @@
 <div align="center">
 <h1 align="center">Hello Earth🌎This is Johnny Dev 👨‍💻<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 <h3 align="center">I am a MERN Stack Web-Developer</h3>
-<img src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966"/> 
+<img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"/> 
 
  </div>
-  
+
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning Next Js 
 - 👯 I’m looking to collaborate on interesting project
