@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning Next Js 
 - 👯 I’m looking to collaborate on interesting project
 - 🤔 I’m looking for help with a Frontned Develpoper Position
-- 💬 Ask me about https://myspace.com/my-planet
-- 📫 How to reach me: **fokruljohnny@gmail.com**
+- 💬 Ask me about https://www.showwcase.com/habluthegreat
+- 📫 How to reach me: **fokruljohnny@gmail.com** Or Discord: https://discord.com/users/1019236660111757414
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
