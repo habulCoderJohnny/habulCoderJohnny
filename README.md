@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on interesting project
 - 🤔 I’m looking for help with a Frontned Develpoper Position
 - 💬 Ask me about https://www.showwcase.com/habluthegreat
-- 📫 How to reach me: **fokruljohnny@gmail.com** Or Discord: https://discord.com/users/1019236660111757414
+- 📫 How to reach me: **fokruljohnny@gmail.com** Or <a href="https://1999azzar.github.io/1999AZZAR/">Discord</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
