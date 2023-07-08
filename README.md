@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hello Earth🌎This is Johnny Dev 👨‍💻<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
-<h3 align="center">I am a MERN Stack Web-Developer</h3>
+<a href="https://app.daily.dev/thepalebluedev"><img src="https://github.com/habulCoderJohnny/habulCoderJohnny/blob/main/devcard.svg" width="400" alt="thepaleblue.dev's Dev Card"/></a>
+ <h3 align="center">I am a MERN Stack Web-Developer</h3>
 <p>I am proficient in Front-End Development using HTML5, Cascade Style Sheets (CSS3), Bootstrap, TailwindCSS, Javascript, React.Js & Vue.Js And apart from Front-End, I have Familiar knowledge in Back-End using expressJS and for Database MongoDB as well as in designing using Adobe Photoshop, Figma, and continuously engage in trying to extend my skills with new technology.</p>
 <img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"/> 
 
